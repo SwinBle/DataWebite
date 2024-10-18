@@ -1,0 +1,1 @@
+{"id": "337b4f0f-c37a-4826-abe8-10b6c8c813fb", "name": "olympics-economics.csv", "timestamp": "2024-10-18T21:27:22.835254", "columns": ["country", "country_code", "gold", "silver", "bronze", "total", "gdp", "gdp_year", "population"], "shape": [90, 9]}
